@@ -1,0 +1,1 @@
+A small fun project to learn about microfrontend and webpack module fed
